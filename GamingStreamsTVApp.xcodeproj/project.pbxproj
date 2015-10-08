@@ -172,6 +172,7 @@
 		090AB8D51BA5BFDF00CDB05D = {
 			isa = PBXGroup;
 			children = (
+				09CE595C1BADBAFA0054EB71 /* Alamofire.xcodeproj */,
 				090AB8E01BA5BFDF00CDB05D /* GamingStreamsTVApp */,
 				090AB8DF1BA5BFDF00CDB05D /* Products */,
 				09CE596E1BADBB030054EB71 /* Thirdparty */,
@@ -274,7 +275,6 @@
 		09CE596E1BADBB030054EB71 /* Thirdparty */ = {
 			isa = PBXGroup;
 			children = (
-				09CE595C1BADBAFA0054EB71 /* Alamofire.xcodeproj */,
 			);
 			name = Thirdparty;
 			sourceTree = "<group>";
